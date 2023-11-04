@@ -1,7 +1,7 @@
 // CodSoft Internship
 // Domain Name - C++ Programming
 // Task - 2(Simple Calculator)
-// Intern Name - Soumalya Bhattacharyya
+// Intern Name - Akash R
 
 #include<iostream>
 
@@ -10,8 +10,7 @@ using namespace std;
 int main() {
     double num1, num2;
     char operation;
-
-    cout << "Simple Calculator!" << endl;
+    cout << "Simple Calculator" << endl;
     cout << "Enter the First Number: ";
     cin >> num1;
     cout << "Enter the Second Number: ";
